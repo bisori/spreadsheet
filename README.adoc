@@ -9,3 +9,6 @@ See the link:http://spreadsheet.dsl.builders/[Full Documentation]
 
 == Acknowledgement
 This project is inspired by http://www.craigburke.com/document-builder/[Groovy Document Builder]
+
+
+https://musketyr.medium.com/groovy-dsl-builders-4-the-disguise-1e2edc2311f8
